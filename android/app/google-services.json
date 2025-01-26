@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "464705846871",
-    "project_id": "fir-learning-43c6f",
-    "storage_bucket": "fir-learning-43c6f.firebasestorage.app"
+    "project_number": "588185739588",
+    "project_id": "rtedyjfgyutuytu6y7r",
+    "storage_bucket": "rtedyjfgyutuytu6y7r.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:464705846871:android:466f62a7453bdf19bf6d12",
+        "mobilesdk_app_id": "1:588185739588:android:36eaf899b973ffe3883711",
         "android_client_info": {
           "package_name": "com.example.authfirebase"
         }
@@ -15,64 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDJ6kklQ3BC7tP4rowXDpJFK7RXB7Ha1OA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:464705846871:android:9967746cea26c8aabf6d12",
-        "android_client_info": {
-          "package_name": "com.example.cgpa"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDJ6kklQ3BC7tP4rowXDpJFK7RXB7Ha1OA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:464705846871:android:eac1226a46614d5abf6d12",
-        "android_client_info": {
-          "package_name": "com.example.firebase_learning"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDJ6kklQ3BC7tP4rowXDpJFK7RXB7Ha1OA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:464705846871:android:4a62e8ffc59337aabf6d12",
-        "android_client_info": {
-          "package_name": "com.example.google_map"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDJ6kklQ3BC7tP4rowXDpJFK7RXB7Ha1OA"
+          "current_key": "AIzaSyCVJBZeDMJTxyqb9ldp9HREJExqQl84O8g"
         }
       ],
       "services": {
